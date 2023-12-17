@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T19:22:29.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KyK3FYm-TIFhe_HhB8Nz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T19:58:03.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="v13VFaLkcFl0NA__lWTA" version="22.1.11" type="github">
   <diagram name="페이지-1" id="B5OyfjskEJdqnIWNUgS6">
-    <mxGraphModel dx="1750" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
           <mxGeometry x="180" y="746" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrnAhwr2PXYCzn8JFYX0-21" value="쿠버네티스 오브젝트를 정의함에 따라, 개발팀의 구조, 배포 정책, 프로세스를 자유롭게 표현 가능하다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="220" width="1110" height="40" as="geometry" />
+          <mxGeometry x="-200" y="220" width="1110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
