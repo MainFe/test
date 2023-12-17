@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T19:11:38.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kl90yMxLVc1NshvLOqHn" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T19:22:29.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KyK3FYm-TIFhe_HhB8Nz" version="22.1.11" type="github">
   <diagram name="페이지-1" id="B5OyfjskEJdqnIWNUgS6">
-    <mxGraphModel dx="2212" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,13 +258,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-6" value="Pod1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-6" value="Pod1의&lt;br&gt;Node 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="356" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-7" value="Pod2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-7" value="Pod2의&lt;br&gt;Node 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="416" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-9" value="Pod3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-9" value="Pod3의&lt;br&gt;Apache 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="476" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrnAhwr2PXYCzn8JFYX0-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rrnAhwr2PXYCzn8JFYX0-7">
@@ -273,14 +273,17 @@
             <mxPoint x="170" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-12" value="Pod4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-12" value="Pod1의&lt;br&gt;MongoDB 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="576" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-14" value="Pod5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-14" value="Pod5의&lt;br&gt;Apache 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="666" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rrnAhwr2PXYCzn8JFYX0-16" value="Pod6" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-16" value="Pod6의&lt;br&gt;MongoDB 컨테이너" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="746" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrnAhwr2PXYCzn8JFYX0-21" value="쿠버네티스 오브젝트를 정의함에 따라, 개발팀의 구조, 배포 정책, 프로세스를 자유롭게 표현 가능하다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="220" width="1110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
